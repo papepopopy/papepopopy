@@ -2,10 +2,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papepopopy&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papepopopy&show_icons=true&theme=radical)
 
-## 🌱Project
-- 🌱 MyProject **VisitBusan**
+<h3 align="left">- 🌱 MyProject **VisitBusan**</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   개발기간 : 2024.08.06-11.07
 </p>
