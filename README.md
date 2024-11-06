@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papepopopy&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papepopopy&show_icons=true&theme=radical)
 
-<h3>🌱 MyProject **VisitBusan**</h3>
+<h3>🌱 MyProject VisitBusan</h3>
   <b>부산관광홈페이지(내일배움캠프 팀프로젝트)</b><br>
   - 개발기간 : 2024.08.06 ~ 09.31<br>
   - 역할 : 팀원, 로그인 및 회원가입, 마이페이지, 관리자페이지(회원관리) 페이지 및 기능 추가
