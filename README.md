@@ -8,7 +8,6 @@
   - 역할 : 팀원, 로그인 및 회원가입, 마이페이지, 관리자페이지(회원관리) 페이지 및 기능 추가
           웹 페이지 디자인<br>
   - <a href="https://docs.google.com/spreadsheets/d/1ESvUz0W0lJDc9VVa38lJEGVJ2ze5gzrHHmV1I3jbSbA/edit?usp=sharing">프로젝트 기획</a><br>
-  - <a href="https://github.com/papepopopy/VisitBusan">프로젝트 바로가기</a>
 <a href="https://github.com/papepopopy/VisitBusan" target="_blank">
   <img src="https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge&logo=appveyor" alt="VisitBusan">
 </a>
