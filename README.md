@@ -4,9 +4,9 @@
 
 <h3>🌱 MyProject **VisitBusan**</h3>
   부산관광홈페이지(내일배움캠프 - 팀프로젝트)
-  - 개발기간 : 2024.08.06 ~ 09.31
+  - 개발기간 : 2024.08.06 ~ 09.31<br>
   - 역할 : 팀원, 로그인 및 회원가입, 마이페이지, 관리자페이지(회원관리) 페이지 및 기능 추가
-          웹 페이지 디자인
+          웹 페이지 디자인<br>
   - <a href="https://docs.google.com/spreadsheets/d/1ESvUz0W0lJDc9VVa38lJEGVJ2ze5gzrHHmV1I3jbSbA/edit?usp=sharing">프로젝트 기획</a>
 
 <h3 align="left">Languages and Tools:</h3>
