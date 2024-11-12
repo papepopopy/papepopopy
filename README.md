@@ -7,10 +7,10 @@
   - 개발기간 : 2024.08.06 ~ 09.31<br>
   - 역할 : 팀원, 로그인 및 회원가입, 마이페이지, 관리자페이지(회원관리) 페이지 및 기능 추가
           웹 페이지 디자인<br>
-  - <a href="https://github.com/papepopopy/VisitBusan">프로젝트 바로가기</a>
+  - <a href="https://github.com/papepopopy/VisitBusan" target="_self">프로젝트 바로가기</a>
 <br>
-<h3>🌱 MyProject WebDesign</h3>
- - <a href="https://notefolio.net/ma_ya">프로젝트 바로가기</a>
+<h3>🌱 WebDesign</h3>
+ - <a href="https://notefolio.net/ma_ya" target="_blank" title="새창열기">바로가기</a>
 <br>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
