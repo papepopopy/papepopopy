@@ -10,7 +10,7 @@
   - <a href="https://github.com/papepopopy/VisitBusan">프로젝트 바로가기</a>
 <br>
 <h3>🌱 WebDesign</h3>
- - <a href="https://notefolio.net/ma_ya">바로가기</a>
+ - <a href="https://notefolio.net/papepopopy_portfolio">바로가기</a>
 <br>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
