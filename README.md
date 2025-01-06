@@ -9,6 +9,12 @@
           웹 페이지 디자인<br>
   - <a href="https://github.com/papepopopy/VisitBusan">프로젝트 바로가기</a>
 <br>
+<h3>🌱 MyProject creatorstudio</h3>
+  <b>부산콘텐츠코리아랩(디자인 퍼블리싱 프로젝트)</b><br>
+  - 개발기간 : 2024.12.26 ~ 01.06<br>
+  - 역할 : 메인페이지 디자인 및 단순 구현<br>
+  - <a href="https://github.com/papepopopy/creatorstudio">프로젝트 바로가기</a>
+<br>
 <h3>🌱 WebDesign</h3>
  - <a href="https://notefolio.net/papepopopy_portfolio">바로가기</a>
 <br>
